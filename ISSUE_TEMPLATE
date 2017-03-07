@@ -2,27 +2,27 @@
 Name requesting role or stakeholder from which this requirement was sourced.
 
 # Service
-Name the Departmental service benefitting from this requirement.
-(TODO list and let issue creator delete non-matching)
+Name the Departmental service benefitting from this requirement, delete non-applicable:
 
-* Service 1
-* Service 2
-* Service 3
-* Service 4
+* P&W Core Service 2 – Conserving Habitats, Species and Ecological Communities
+* P&W Core Service 3 – Conservation Partnerships
+* P&W Common IT Functions
 
 # Related issues
 Hashtag-mention overarching issues: 
 Business Need > Stakeholder Requirement > Functional / Non-functional / Transition Requirement
 
 # Checklist
+TODO - refine this mapping!
+
 [] Set assignee if known.
 [] Label priority: must have, should have, could have, won't have.
 [] Set project to the business function this requirement belongs to.
-[] Set milestone to the requirement type: business, stakeholder, functional, non-functional, transition requirement.
-
+[] Label requirement type: stakeholder, functional, non-functional, transition requirement.
+[] Set milestone to business requirement
 
 # Requirement
-Specify the requirement. TODO: find a good template text for each requirement type as a starting point.
+The system shall ...
 
 # Use cases
 Narrate use cases having this requirement.
