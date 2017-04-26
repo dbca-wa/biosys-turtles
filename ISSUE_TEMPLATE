@@ -1,11 +1,11 @@
 ### Source
 Name requesting role or stakeholder from which this requirement was sourced:
 
-Core stakeholders
-Turtle tagging stakeholders
-Turtle track count stakeholders
-Marine wildlife stranding stakeholders
-Departmental stakeholders
+* Core stakeholders
+* Turtle tagging stakeholders
+* Turtle track count stakeholders
+* Marine wildlife stranding stakeholders
+* Departmental stakeholders
 
 ### Service
 For business requirements, name the Departmental service benefiting from this requirement (delete non-applicable):
@@ -15,8 +15,10 @@ For business requirements, name the Departmental service benefiting from this re
 * P&W Common IT Functions
 
 ### Related issues
-Hashtag-mention overarching issues, one per line:
-Business Need (Milestone) > Stakeholder Requirement (label) > Functional / Non-functional / Transition Requirement (label)
+Hashtag-mention overarching issue(s), separate with whitespace or line breaks
+Business Need (Milestone) > 
+Stakeholder Requirement (label) > 
+Functional / Non-functional / Transition Requirement (label)
 
 ### Checklist
 
@@ -24,7 +26,7 @@ Business Need (Milestone) > Stakeholder Requirement (label) > Functional / Non-f
 * Label priority: must have, should have, could have, won't have.
 * Label requirement type: stakeholder, functional, non-functional, transition requirement.
 * Set milestone to business need.
-* Delete the checklist section when done.
+* Delete this checklist section when done.
 
 ### Requirement
 The solution shall ...
