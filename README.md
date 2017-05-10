@@ -16,7 +16,7 @@ We combine Sphinx documentation, GitHub issues, Kanban boards, and R Shiny apps 
 * Contributors raise issues [here](https://github.com/parksandwildlife/biosys-turtles/issues)
   and follow instructions.
 * Issues will automatically pop up on the 
-  [![Kanban board](https://badge.waffle.io/parksandwildlife/biosys-turtles.svg?label=ready&title=Ready)](http://waffle.io/parksandwildlife/biosys-turtles), where logged in
+  [![Kanban board](https://badge.waffle.io/parksandwildlife/biosys-turtles.svg?label=must-have&title=KanbanBoard)](http://waffle.io/parksandwildlife/biosys-turtles), where logged in
   contributors can re-arrange isses to sort them by priority:
   Kanban lanes are named (and apply labels) after priorities.
 * Any outputs will be created by RMarkdown workbooks or R Shiny apps, consuming the issues 
