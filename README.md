@@ -33,3 +33,4 @@ We combine Sphinx documentation, GitHub issues, Kanban boards, and R Shiny apps 
 ## Outputs
 
 * [Explore Requirements](https://yes-we-ckan.shinyapps.io/BiosysTurtlesRequirements/) ([source](https://github.com/parksandwildlife/turtle-scripts/tree/master/requirements/BiosysTurtlesRequirements)) - explore and export requirements
+* Once the stakeholder consultation and write-up process is complete, we will produce a static document containing all outputs, and link it from here.
