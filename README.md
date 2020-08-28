@@ -1,4 +1,4 @@
-# biosys-turtles
+# Requirements Analysis for a Turtle Monitoring Data Management System
 This repository maintains the outputs of a requirements analysis for the Biosys milestone "Turtles".
 
 We will have to author, maintain and work on these requirements for a long time in a distributed yet accessible manner.
@@ -13,24 +13,26 @@ We combine Sphinx documentation, GitHub issues, Kanban boards, and R Shiny apps 
   We want to extract and formalise them.
 * The `ISSUE_TEMPLATE` contains the formalised structure for the issue's narrative 
   together with usage instructions.
-* Contributors raise issues [here](https://github.com/parksandwildlife/biosys-turtles/issues)
+* Contributors raise issues [here](https://github.com/dbca-wa/biosys-turtles/issues)
   and follow instructions.
 * Issues will automatically pop up on the 
-  [![Kanban board](https://badge.waffle.io/parksandwildlife/biosys-turtles.svg?label=must-have&title=KanbanBoard)](http://waffle.io/parksandwildlife/biosys-turtles), where logged in
+  [Kanban board](https://github.com/dbca-wa/biosys-turtles/projects/4), where logged in
   contributors can re-arrange isses to sort them by priority:
   Kanban lanes are named (and apply labels) after priorities.
 * Any outputs will be created by RMarkdown workbooks or R Shiny apps, consuming the issues 
   through the GitHub API, and formatting them according to the respectively required output format. 
   This will allow us to generate multiple outputs from one centrally maintained set of issues. 
   The workbooks and apps will be kept under version control, and the hosted versions will be linked here.
+* Implemented requirements are described in the original issue under a heading "Implementation". 
+  Issues are not formally closed here in order to present them in the [Explore Requirements]((https://yes-we-ckan.shinyapps.io/BiosysTurtlesRequirements/)) dashboard.
   
 ## Inputs
 
 * Read [WAStD documentation](http://wastd.readthedocs.io/business_analysts.html) to find requirements
-* Use [GitHub Issues](https://github.com/parksandwildlife/biosys-turtles/issues) to create issues from requirements
-* View [Kanban board](https://waffle.io/parksandwildlife/biosys-turtles) to update, sort and re-prioritise requirements
+* Use [GitHub Issues](https://github.com/dbca-wa/biosys-turtles/issues) to create issues from requirements
+* View [Kanban board](https://waffle.io/dbca-wa/biosys-turtles) to update, sort and re-prioritise requirements
 
 ## Outputs
 
-* [Explore Requirements](https://yes-we-ckan.shinyapps.io/BiosysTurtlesRequirements/) ([source](https://github.com/parksandwildlife/turtle-scripts/tree/master/requirements/BiosysTurtlesRequirements)) - explore and export requirements
+* [Explore Requirements](https://yes-we-ckan.shinyapps.io/BiosysTurtlesRequirements/) ([source](https://github.com/dbca-wa/turtle-scripts/tree/master/requirements/BiosysTurtlesRequirements)) - explore and export requirements
 * Once the stakeholder consultation and write-up process is complete, we will produce a static document containing all outputs, and link it from here.
